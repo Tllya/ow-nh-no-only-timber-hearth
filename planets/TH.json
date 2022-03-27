@@ -1,0 +1,14 @@
+{
+	"name" : "Timber Hearth",
+	"Props" :
+	{
+		"details" :
+		[
+			{
+				"path" : "DB_PioneerDimension_Body/Sector_PioneerDimension/Interactables_PioneerDimension/Pioneer_Characters/Traveller_HEA_Feldspar", 
+				"position": {"x": 76.64214, "y": 168.3137, "z": 11.9636},
+				"rotation": {"x": 82.1106, "y": 107.3981, "z": 103.934}
+			}
+		]
+	}
+}
