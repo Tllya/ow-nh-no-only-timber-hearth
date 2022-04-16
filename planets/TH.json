@@ -10,5 +10,9 @@
 				"rotation": {"x": 82.1106, "y": 107.3981, "z": 103.934}
 			}
 		]
-	}
+	},
+	"childrenToDestroy": [
+    		"Sector_TH/Sector_ImpactCrater/Interactables_ImpactCrater/ControlledByProxy_Structures",
+			"Sector_TH/Sector_ImpactCrater/Interactables_ImpactCrater/BrambleSeed"
+  	]
 }
